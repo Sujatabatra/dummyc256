@@ -1,3 +1,4 @@
 hello, today we are demonstrating git bash commands.
 Adding new line for demonstrating modification.
 kitten is eating chicken in the kitchen.
+Additing new line from master branch.... :)
